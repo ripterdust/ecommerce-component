@@ -82,4 +82,11 @@ nav .profile .avatar {
   margin-left: 3em;
 }
 
+section {
+  width: 100%;
+  display: flex;
+  height: calc(100vh - 5em);
+  background: black;
+}
+
 /*# sourceMappingURL=main.css.map */
