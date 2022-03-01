@@ -64,5 +64,15 @@ nav .menu a::before {
 nav .menu a:hover:before {
   height: 3px;
 }
+nav .profile {
+  height: 100%;
+  width: 60%;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+nav .profile > * {
+  cursor: pointer;
+}
 
 /*# sourceMappingURL=main.css.map */

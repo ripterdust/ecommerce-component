@@ -70,4 +70,16 @@ nav {
         }
 
     }
+
+    .profile{
+        height: 100%;
+        width: calc(100% - 10% - 30%);
+        display: flex;
+        justify-content: right;
+        align-items: center;
+
+        & > * {
+            cursor: pointer;
+        }
+    }
 }
