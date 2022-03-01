@@ -84,9 +84,10 @@ nav .profile .avatar {
 
 section {
   width: 100%;
-  display: flex;
+  display: grid;
   height: calc(100vh - 5em);
   background: black;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 /*# sourceMappingURL=main.css.map */
