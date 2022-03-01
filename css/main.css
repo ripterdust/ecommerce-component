@@ -74,5 +74,12 @@ nav .profile {
 nav .profile > * {
   cursor: pointer;
 }
+nav .profile .cart {
+  font-size: 10px;
+}
+nav .profile .avatar {
+  height: 90%;
+  margin-left: 3em;
+}
 
 /*# sourceMappingURL=main.css.map */

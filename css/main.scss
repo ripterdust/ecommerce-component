@@ -81,5 +81,14 @@ nav {
         & > * {
             cursor: pointer;
         }
+
+        .cart{
+            font-size: 10px;
+        }
+
+        .avatar {
+            height: 90%;
+            margin-left: 3em;
+        }
     }
 }
